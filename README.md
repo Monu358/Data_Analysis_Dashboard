@@ -17,3 +17,7 @@ This Power BI dashboard presents a detailed analysis of patient visits to the em
 
  # Dashboard Interaction
  - <a href= "https://github.com/Monu358/Data_Analysis_Dashboard/blob/main/Patients%20Emergency%20Dashboard.pbix">View Dashboard</a>
+
+# dashboard Screenshort
+ <img width="1320" height="728" alt="Screenshot 2025-11-07 105145" src="https://github.com/user-attachments/assets/eecd9107-176c-47fc-8edf-724ce8e88aa4" />Dashboard</a>
+
