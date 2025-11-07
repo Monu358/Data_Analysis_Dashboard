@@ -16,4 +16,4 @@ This Power BI dashboard presents a detailed analysis of patient visits to the em
  35.53 minutes, a critical metric for operational efficiency
 
  # DAshboard Interaction
- - <a
+ - <a href= "https://github.com/Monu358/Data_Analysis_Dashboard/blob/main/Patients%20Emergency%20Dashboard.pbix">View Dashboard</a>
