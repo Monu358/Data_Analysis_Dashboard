@@ -15,5 +15,5 @@ This Power BI dashboard presents a detailed analysis of patient visits to the em
 ## Average Wait Time:
  35.53 minutes, a critical metric for operational efficiency
 
- # DAshboard Interaction
+ # Dashboard Interaction
  - <a href= "https://github.com/Monu358/Data_Analysis_Dashboard/blob/main/Patients%20Emergency%20Dashboard.pbix">View Dashboard</a>
